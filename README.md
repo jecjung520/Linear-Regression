@@ -1,3 +1,3 @@
 # Linear-Regression
 
-### Basic Linear Regression algorithm constructed
+A basic Linear Regression algorithm
